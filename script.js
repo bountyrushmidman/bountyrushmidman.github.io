@@ -7,7 +7,7 @@ class Member {
   }
 }
 
-var Raditama = new Member("RADITAMA SENJA", "<span style='font-weight: bolder;'> Languages:</span> English, Indonesian.<br><span style='font-weight: bolder;'> Currency:</span> USD, IDR <br><br><span'>Raditama, also known as the 'beast dealer', is the person you would like to get in touch with if you are looking for a hyper beast account that can take you to top rank. 11 EX? 12 EX? Full EX? Zoro and Big Mom combo with 100+ Hyperboost? He got them all ! Additionally, Raditama also offer midman service, so just hit the button below and have contact with him.</span>", "raditama.jpg", "window.location.href='https://www.facebook.com/raditama.wind?mibextid=LQQJ4d'");
+var Raditama = new Member("RADITAMA SENJA", "<span style='font-weight: bolder;'> Languages:</span> English, Indonesian.<br><span style='font-weight: bolder;'> Currency:</span> USD, IDR <br><br><span>Raditama, also known as the 'beast dealer', is the person you would like to get in touch with if you are looking for a hyper beast account that can take you to top rank. 11 EX? 12 EX? Full EX? Zoro and Big Mom combo with 100+ Hyperboost? He got them all ! Additionally, Raditama also offer midman service, so just hit the button below and have contact with him.</span>", "raditama.jpg", "window.location.href='https://www.facebook.com/raditama.wind?mibextid=LQQJ4d'");
 
 var Labrie = new Member("LABRIE", "<span style='font-weight: bolder;'> Languages:</span> English, Indonesian.<br><span style='font-weight: bolder;'> Currency:</span> USD, IDR <br><br><span style='margin-left: -50%'>Pending Description.</span>", "labrie.jpg", "window.location.href='https://www.facebook.com/labrie.labrie.397?mibextid=LQQJ4d'");
 
