@@ -6,6 +6,7 @@ body {
 
 #mainPage {
   display: block;
+  width: 96vw;
 }
 
 .splashPage {
@@ -19,7 +20,7 @@ body {
   z-index: 200;
   background: linear-gradient(#000000, #1A1A1B, #353437, #4F4E52, #69686D);
   content-align: center;
-  padding-top: 50%;
+  padding-top: 0%;
 }
 
 .splashPage.display-none {
