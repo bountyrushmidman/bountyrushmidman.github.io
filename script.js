@@ -19,7 +19,9 @@ var Likhasit = new Member("LIKHASIT YAMSUTTUM", "<span style='font-weight: bolde
 
 var me = new Member("KHANH LE", "<span style='font-weight: bolder;'> Languages:</span> English, Vietnamese.<br><span style='font-weight: bolder;'> Currency:</span> USD, CAD <br><br><p style='margin-left: -50%'>Mostly working as the team's backup and support, not so many people know about Khanh Le. However, he also offers a wide range of services from midman to dealership. On time, friendly, professional and is always ready to work, Khanh Le can help you if you are in an urgent matter. At the same time, he also holds a great range of account, so if you are in need for one, contact him right away ! Hit the button below, and let's have a meaningful conversation.</p>", "me.jpg", "window.location.href='https://www.facebook.com/LHK.Aslf?mibextid=LQQJ4d'");
 
-var members = [Likhasit, Labrie, TruongCuong, Raditama, Kawaki, me];
+var TuanAnh = new Member("TUAN ANH", "<span style='font-weight: bolder;'> Languages:</span> English, Vietnamese.<br><span style='font-weight: bolder;'> Currency:</span> USD, VND <br><br><p style='margin-left: -50%'>Fast, cheap and reliable, Tuan Anh is always able to help you, especially when it comes to dealing with Vietnamese market. In addition to a wide search, he has a stocking of 70+ cheap accounts that will meet your budget when you just need some account for trial - but fear not, those accounts are still top quality. Just click the button below, Tuan Anh is happy to assist you right away.</p>", "tuananh.jpg", "window.location.href='https://www.facebook.com/xinhtroai.anh.79'");
+
+var members = [Likhasit, Labrie, TruongCuong, Raditama, Kawaki, me, TuanAnh];
 
 var currentPage = "starting";
 
