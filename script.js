@@ -38,8 +38,9 @@ document.getElementById("information").style.display = "block";
 document.getElementById("memName").innerHTML = members[parameter].name;
 document.getElementById("description").innerHTML = members[parameter].description;
 document.getElementById("memName1").innerHTML = members[parameter].name;
-var command = "window.open(" + members[parameter].contact + ", '_blank');";
-document.getElementById("contactThem").setAttribute("onClick", command);
+document.getElementById("contactThem").setAttribute("onClick", function() {
+  window.open(members[parameter].contact, "_blank");
+});
 
 }
 
