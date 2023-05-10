@@ -40,10 +40,7 @@ document.getElementById("description").innerHTML = members[parameter].descriptio
 document.getElementById("memName1").innerHTML = members[parameter].name;
 document.getElementById("contactThem").setAttribute("onClick", "window.open(" + members[parameter].contact + ", '_blank')";
 }
-                                                   );
-
-}
-
+                                             
 var splashScreen = document.querySelector(".splashPage");
 
 document.addEventListener("DOMContentLoaded", (e)=>{
